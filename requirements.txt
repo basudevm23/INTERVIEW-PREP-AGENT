@@ -1,0 +1,12 @@
+streamlit>=1.25
+transformers>=4.35.0
+peft>=0.6.0
+datasets>=2.13.0
+accelerate>=0.21.0
+torch>=2.2.0
+sentence-transformers>=2.2.2
+numpy>=1.26.0
+pydantic>=1.10,<3
+python-dotenv
+faiss-cpu==1.8.0.post1
+pytest
