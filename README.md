@@ -29,5 +29,5 @@ The agent operates in two primary modes:
 
 *The LoRA model scores each answer (0–10 scale).
 
-Gemini provides a model answer and concise feedback for learning and improvement.
+*Gemini provides a model answer and concise feedback for learning and improvement.
 
